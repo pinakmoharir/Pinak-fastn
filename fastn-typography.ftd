@@ -1,17 +1,17 @@
--- import: <user_name>.github.io/<repo_name>
+-- import: pinakmoharir.github.io/pinak-fastn
 
 
 
--- site-doc.doc-home: <repo_name> package
-site-title: `<repo_name>`
+-- site-doc.doc-home: pinak-fastn package
+site-title: `pinak-fastn`
 show-tabs: false
-github-url: <user_name>.github.io/<repo_name>
-current-package: <user_name>.github.io/<repo_name>
+github-url: pinakmoharir.github.io/pinak-fastn
+current-package: pinakmoharir.github.io/pinak-fastn
 
-Below are our default fastn `inherited` font types of <repo_name>.
+Below are our default fastn `inherited` font types of pinak-fastn.
 
 -- display-type:
-types: $<repo_name>.types
+types: $pinak-fastn.types
 
 
 -- end: site-doc.doc-home
